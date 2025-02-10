@@ -18,18 +18,8 @@ Este programa em Python permite que o usuário insira o nome e o preço de cinco
 
 ```python
 Digite o nome do produto 1: Produto A
-Digite o preço do produto 1: R$10.50
-
+Digite o preço do produto (ex: 10.50 ou 10,50): 15,75
 Digite o nome do produto 2: Produto B
-Digite o preço do produto 2: R$25.00
-
-Digite o nome do produto 3: Produto C
-Digite o preço do produto 3: R$5.75
-
-Digite o nome do produto 4: Produto D
-Digite o preço do produto 4: R$12.30
-
-Digite o nome do produto 5: Produto E
-Digite o preço do produto 5: R$8.40
-
-Valor total da compra: R$61.95
+Digite o preço do produto (ex: 10.50 ou 10,50): 20.30
+...
+Valor total da compra: R$ X.XX
